@@ -1,0 +1,10 @@
+name: BlockJam
+main: com.devsteady.blockjam.BlockJam
+version: ${project.version}
+description: Make your musical dreams come to life!
+author: TheGamersCave
+depend: [Onyx]
+commands:
+   music:
+      usage: /music
+      description: Toggle your music mode.
